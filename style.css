@@ -1,0 +1,61 @@
+#text{
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+
+#input{
+    margin-top: 35px;
+    margin-left: 100px;
+    border-block-style: none;
+    background-color: lightgrey;
+    width: 240px;
+    height: 40px;
+}
+
+#button{
+    height: 40px;
+    border-style: none;
+    color: darkslateblue;
+    width: 126px;
+    background-color: aqua;
+    margin-left: 40px;
+}
+p#result {
+    margin-left: 100px;
+    margin-top: 35px;
+    background-color: aquamarine;
+}
+div {
+    display: flex;
+}
+
+button {
+    margin-left: auto;
+    width: 121px;
+    height: 52px;
+    margin-top: 13px;
+    background-color: red;
+    font-size: 14px;
+   
+}
+
+h2#text {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-line: underline;
+    color: darkgrey;
+}
+h1 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: indigo;
+    margin-left: 28px;
+}
+
+h3 {
+    margin-left: 50px;
+    margin-top: 26px;
+    color: indigo;
+
+}
